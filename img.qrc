@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image_app/thinh6.png</file>
+    </qresource>
+</RCC>
