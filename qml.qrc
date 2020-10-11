@@ -1,10 +1,13 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>main_screen_qml/ScreenHome.qml</file>
-        <file>component_qml/Component_1.qml</file>
+        <file>main_screen_qml/ScreenTemplate.qml</file>
+        <file>component_qml/ComponentTemplate.qml</file>
         <file>common_qml/G_Button.qml</file>
         <file>common_qml/G_Text.qml</file>
         <file>common_qml/G_Image.qml</file>
+        <file>animation_qml/G_AnimationX.qml</file>
+        <file>animation_qml/G_AnimationOpacity.qml</file>
+        <file>animation_qml/G_AnimationY.qml</file>
     </qresource>
 </RCC>

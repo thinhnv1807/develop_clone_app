@@ -1,6 +1,7 @@
 import QtQuick 2.12
 import "../common_qml"
 import "../component_qml"
+import "../animation_qml"
 
 Item {
     id: root
@@ -15,5 +16,9 @@ Item {
         height: 100
         width: 200
         anchors.centerIn: parent
+        button_mouse.onPressed: {a1.start()}
     }
+
+    G_AnimationY{id: a1; target: root; duration: 400}
+
 }
