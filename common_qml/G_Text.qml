@@ -9,3 +9,4 @@ Text {
     verticalAlignment: Text.AlignVCenter
     horizontalAlignment: Text.AlignHCenter
 }
+

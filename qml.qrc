@@ -9,5 +9,6 @@
         <file>animation_qml/G_AnimationX.qml</file>
         <file>animation_qml/G_AnimationOpacity.qml</file>
         <file>animation_qml/G_AnimationY.qml</file>
+        <file>common_qml/G_BurHiden.qml</file>
     </qresource>
 </RCC>
